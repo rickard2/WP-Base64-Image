@@ -1,1 +1,6 @@
-Convert images from HTTP links to data URIs instead. 
+This is just a random idea of substituting http image urls to inline base 64 data URIs instead. It's probably not a good idea since I've never seen anyone argue that it is. The biggest problem is that images won't be cached and thus needs to be loaded on every page request. 
+
+However I'd just like to try it out. Use it on your own risk. 
+
+License: WTFPL
+http://sam.zoy.org/wtfpl/
